@@ -13,7 +13,7 @@
         </li>
       </ul>
     </div>
-    <div style="background-color: lightgrey; padding: 1px;">
+    <div class="top-rated" style="background-color: lightgrey; padding: 14px;">
     Top Rated
     <top-rated-preview
       v-for="article in TopRated"
